@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RecruiterBoyer
-- 👀 I’m interested in ...helping people and their careers at top organizations
+- 👀 I’m interested in ...helping people and top tier organizations find each other and grow together
 - 🌱 I’m currently working on ...rapidly growing and expanding SentinelOne's US technical research and development teams
 - 💞️ I’m looking to collaborate on ...connecting you and yours with remote first jobs at an organization that prioritizes taking care of their people
 - 📫 How to reach me ...kevin.boyer@sentinelone.com
